@@ -1,12 +1,12 @@
-.input{
+.input {
     height: 20px;
     width: 150px;
     margin: 18px;
 }
 
-.button{
-    height:20px;
-    width:70px;
+.button {
+    height: 20px;
+    width: 70px;
     padding: 2px;
     margin: 18px;
     background-color: teal;

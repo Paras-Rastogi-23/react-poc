@@ -1,11 +1,10 @@
-
-import './App.css';
-import EventSearch from './Screens/EventSearch';
+import "./App.css";
+import EventSearch from "./Screens/EventSearch";
 
 function App() {
   return (
     <div className="App">
-     <EventSearch />
+      <EventSearch />
     </div>
   );
 }
